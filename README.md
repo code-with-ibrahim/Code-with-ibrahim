@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi there 👋 this is İbrahim Temel
+### About Me:
+
+**I am a developer, here I will share with you the code and projects I wrote in the CodeForJames vision**
+
+- ### The Technology and Tools I Use:
+
+   - **Python, GUI, OOP**
+
+   - **Pycharm, Anaconda, Spyder, Jupyterlab, Jupyter Notebook, Kaggle**
+
+   - **Numpy, Pandas, TensorFlow, Matplotlib, Seaborn, Keras**
+
+- ### Contact Me:
+
+  - **LinkedIn: www.linkedin.com/in/ibrahim-temel-581186315**
+
+  - **Medium: https://medium.com/@Code.with_ibrahim**
+ 
+  - **Instagram: https://www.instagram.com/code.with_ibrahim/**
 
 <!--
 **Code-with-ibrahim/Code-with-ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
